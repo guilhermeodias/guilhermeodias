@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guidias___/)
 <a href = "mailto: guilhermeodias@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Wesleyhmendes GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeodias&show_icons=true&theme=tokyonight)
+![guilhermeodias GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeodias&show_icons=true&theme=tokyonight)
 
 ## Tecnologias e linguagens usadas no momento:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,linux,vscode)](https://skillicons.dev)
