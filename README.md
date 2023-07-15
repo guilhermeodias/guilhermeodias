@@ -13,7 +13,7 @@
 
 ### Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador.<br/>
 
-<i>Nolan Bushnell </i><br/>
+<i>"Nolan Bushnell" </i><br/>
 
 ## Contribuições:
 ![snake gif](https://github.com/guilhermeodias/guilhermeodias/blob/output/github-contribution-grid-snake.gif)
