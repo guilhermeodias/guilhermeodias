@@ -9,9 +9,11 @@
 ## Tecnologias e linguagens usadas no momento:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,linux,vscode)](https://skillicons.dev)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyhmendes)](https://github.com/Wesleyhmendes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeodias)](https://github.com/guilhermeodias/github-readme-stats)
 
-### Entusiasta de tecnologia e motivado pela constante evolução. <br/>
+### Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador.<br/>
+
+<i>Nolan Bushnell </i><br/>
 
 ## Contribuições:
 ![snake gif](https://github.com/guilhermeodias/guilhermeodias/blob/output/github-contribution-grid-snake.gif)
