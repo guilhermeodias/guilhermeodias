@@ -7,7 +7,7 @@ Olá, eu sou o Gui Dias!  <img src="https://emojis.slackmojis.com/emojis/images/
 ![guilhermeodias GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeodias&show_icons=true&theme=tokyonight)
 
 ## Tecnologias e linguagens usadas no momento:
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,js,react,vite,bootstrap,html,css,git,github,jest,linux,vscode,nodejs,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,js,react,vite,typescript,bootstrap,html,css,git,github,jest,linux,vscode,nodejs,wordpress)](https://skillicons.dev)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeodias)](https://github.com/guilhermeodias/github-readme-stats)
 
