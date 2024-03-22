@@ -4,8 +4,7 @@ Olá, eu sou o Gui Dias!  <img src="https://emojis.slackmojis.com/emojis/images/
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guidias___/)
 <a href = "mailto: guilhermeodias@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![guilhermeodias GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeodias&show_icons=true&theme=tokyonight)
-[![guilhermeodias GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeodias)](https://github.com/guilhermeodias/github-readme-stats)
+[![guilhermeodias GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeodias)]
 
 ## Tecnologias e linguagens usadas no momento:
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,pr,js,react,vite,typescript,bootstrap,html,css,git,github,jest,linux,vscode,nodejs,wordpress)](https://skillicons.dev)
